@@ -28,6 +28,20 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sergioricardodev/sergioricardodev/output/snake.svg" alt="Snake animation" />
+<h2 align="left">Mídias Sociais</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.facebook.com/sergioricardo.pinheiro?locale=pt_BR" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/sergiojoker/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@sergiojoker7139" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
 
 ###

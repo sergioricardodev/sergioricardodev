@@ -1,3 +1,11 @@
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">• 🔭 Cursando Analise e Desenvolvimento de Sistemas pela Uninove <br>• 💬 Pergunte-me sobre HTML, CSS, JavaScript ...<br>• 📫 contacte-me no email: sergiojoker@gmail.com</p>
+
+###
+
 <h2 align="left">Tecnologias</h2>
 
 ###
